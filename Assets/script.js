@@ -1,3 +1,4 @@
+// Code written by arbdt on github. I do not claim it as my own
 $(document).ready(function(){
 
     //variables here
