@@ -9,4 +9,4 @@ This page makes use of a few of the APIs available from Open Weather Map. It als
 ![image](./Assets/weather-dash-preview.png)
 
 ### Link to Live Version
-[Click here](https://arbdt.github.io/weather-dashboard/) to access the deployed website.
+[Click here](https://micahdeaton.github.io/weather-dashboard/) to access the deployed website.
